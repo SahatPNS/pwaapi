@@ -1,0 +1,24 @@
+{
+"product" [
+{"id":1,"name":"Western patch-nosed snake","category":"Green"},
+{"id":2,"name":"Kiskadee, great","category":"Goldenrod"},
+{"id":3,"name":"Elk, Wapiti","category":"Pink"},
+{"id":4,"name":"Hartebeest, coke's","category":"Aquamarine"},
+{"id":5,"name":"Bulbul, black-eyed","category":"Mauv"},
+{"id":6,"name":"Capuchin, black-capped","category":"Indigo"},
+{"id":7,"name":"Wild water buffalo","category":"Green"},
+{"id":8,"name":"Lion, southern sea","category":"Goldenrod"},
+{"id":9,"name":"Capuchin, black-capped","category":"Puce"},
+{"id":10,"name":"Hawk, ferruginous","category":"Fuscia"},
+{"id":11,"name":"Penguin, little blue","category":"Orange"},
+{"id":12,"name":"Asian elephant","category":"Blue"},
+{"id":13,"name":"Parakeet, rose-ringed","category":"Purple"},
+{"id":14,"name":"Hawk-headed parrot","category":"Orange"},
+{"id":15,"name":"Vulture, white-headed","category":"Aquamarine"},
+{"id":16,"name":"Squirrel, eurasian red","category":"Orange"},
+{"id":17,"name":"Dolphin, bottle-nose","category":"Mauv"},
+{"id":18,"name":"Macaque, rhesus","category":"Blue"},
+{"id":19,"name":"Blackish oystercatcher","category":"Blue"},
+{"id":20,"name":"Dingo","category":"Khaki"}
+]
+}
